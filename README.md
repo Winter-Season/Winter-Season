@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Winter Season</h1>
-<h3 align="center">Somewhere in Europe. I am C and Python Developer (sort of but I'm still learning). I used to be a game developer on Unity and Roblox Studio but I quitted both. That is how I was introduced to coding/programming. I find coding/programming kinda fun sometimes because you just sit in front of you PC and type.</h3>
+<h3 align="center">Somewhere in Europe. I am Python Developer (sort of but I'm still learning). I used to be a game developer on Unity and Roblox Studio but I quitted both. That is how I was introduced to coding/programming. I find coding/programming kinda fun sometimes because you just sit in front of you PC and type.</h3>
 
 - ⚡ Fun fact: **I think I am funny sometimes.**
 
